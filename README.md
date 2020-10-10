@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/gblnovaes) 😏
 - [Twitter](https://twitter.com/gblnovaes) 🐤
-- [Instagram](https://instagram.com/gblnovaes) 😎
+- [Instagram](https://instagram.com/gblnovaes_) 😎
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
 <!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
