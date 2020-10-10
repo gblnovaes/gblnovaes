@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/gblnovaes) 😏
 - [Twitter](https://twitter.com/gblnovaes) 🐤
@@ -22,7 +23,9 @@ Here are some ideas to get you started:
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
 <!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
- 
+
+[![gblnovaes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gblnovaes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![gblbnovaes's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
