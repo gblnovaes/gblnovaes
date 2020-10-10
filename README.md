@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 Where to find me
+- [Facebook](https://facebook.com/gblnovaes) 😏
+- [Twitter](https://twitter.com/gblnovaes) 🐤
+- [Instagram](https://instagram.com/gblnovaes) 😎
+- [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
+
+<!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
+ 
+
+
 ![gblbnovaes's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
