@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer living in Brazil and working remotely for companies around the globe. 
+
+
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/gblnovaes) 😏
@@ -24,5 +27,12 @@ Here are some ideas to get you started:
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
 <!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblnovaes&hide=dart,kolin,java,c,c++,gdscript,html,css,javascript,)](https://github.com/gblnovaes/github-readme-stats)
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
+
+
 
 ![gblbnovaes's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
