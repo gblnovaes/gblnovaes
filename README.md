@@ -30,9 +30,10 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
 
-
+<!--START_SECTION:waka-->
 
 [![gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
 
+<!--END_SECTION:waka-->
 
 ![gabriel's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
