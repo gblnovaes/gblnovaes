@@ -31,13 +31,13 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<!--START_SECTION:waka-->
-
-[![gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
-
+```text
+Dart       52 hrs 1 min    ██████████████████████▓░░   90.93 % 
+YAML       4 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown   22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+XML        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
 <!--END_SECTION:waka-->
 
 ![gabriel's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
