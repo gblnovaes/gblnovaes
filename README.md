@@ -32,11 +32,11 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-Dart         38 hrs 36 mins  ██████████████████▒░░░░░░   72.90 % 
-TypeScript   9 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 % 
-JSON         2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-YAML         55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Dart         39 hrs 11 mins  ██████████████████▒░░░░░░   72.75 % 
+TypeScript   9 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
+JSON         2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+YAML         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
