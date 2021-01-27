@@ -32,8 +32,8 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-XML    4 mins          ██████████████████▓░░░░░░   74.64 % 
-Java   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.36 % 
+XML    4 mins          ██████████████████▓░░░░░░   74.27 % 
+Java   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.73 % 
 ```
 <!--END_SECTION:waka-->
 
