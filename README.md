@@ -32,11 +32,10 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   3 hrs 46 mins   ██████████████▒░░░░░░░░░░   56.82 % 
-Java     1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.14 % 
-Dart     39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-CSS      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-HTML     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Kotlin   3 hrs 46 mins   ███████████████████▒░░░░░   76.93 % 
+Dart     39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+CSS      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+HTML     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 <!--END_SECTION:waka-->
 
