@@ -32,11 +32,11 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-PHP     8 hrs 20 mins   ██████████████████████░░░   88.50 % 
-Text    28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-HTML    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Other   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-INI     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+PHP          6 hrs 55 mins   ██████████████████████▒░░   88.78 % 
+Text         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+INI          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
 
