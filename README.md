@@ -32,7 +32,8 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   26 mins         ███████████████████████░░   91.94 % 
+JSON         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 <!--END_SECTION:waka-->
 
