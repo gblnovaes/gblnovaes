@@ -32,10 +32,8 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 <!--START_SECTION:waka-->
 ```text
-Assembly   8 hrs 37 mins   ██████████████████▒░░░░░░   72.69 % 
-Other      2 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.49 % 
-Bash       39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Assembly    5 hrs 39 mins   ██████████████████░░░░░░░   72.51 % 
+Other       2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
 ```
 <!--END_SECTION:waka-->
 
