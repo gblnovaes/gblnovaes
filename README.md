@@ -21,9 +21,7 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/gblnovaes) 😏
 - [Twitter](https://twitter.com/gblnovaes) 🐤
-- [Instagram](https://instagram.com/gblnovaes_) 😎
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
 <!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
