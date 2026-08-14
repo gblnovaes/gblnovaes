@@ -24,14 +24,11 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 - [Twitter](https://twitter.com/gblnovaes) 🐤
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
-<!--- [Website](https://gabrielnovaes.com.br) 😏🔗 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gblnovaes)](https://github.com/gblnovaes/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-![gabriel's Github Stats](https://github-readme-stats.vercel.app/api?username=gblnovaes&show_icons=true&theme=radical)
+ 
