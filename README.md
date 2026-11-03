@@ -25,10 +25,4 @@ My name is Gabriel Novaes and I´m experienced (+5 years) Mobile Developer livin
 - [LinkedIn](https://linkedin.com/in/gblnovaes) 👨💼
 
 
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
  
